@@ -16,7 +16,7 @@ namespace MaintainProducts
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Technician());
+            Application.Run(new CustomerIncidents());
         }
     }
 }
